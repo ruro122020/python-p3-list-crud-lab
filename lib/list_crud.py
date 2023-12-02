@@ -2,7 +2,7 @@ def create_an_empty_list():
     return []
 
 def create_a_list():
-    return None
+    return list([1, 2, 3, 4])
 
 def add_element_to_end_of_list(l, element):
     return None
